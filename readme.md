@@ -1,0 +1,3 @@
+# NLP
+jieba文件夹和snownlp文件夹：使用jieba和snownlp包进行简单的自然语言处理。
+twitter文件夹使用LSTM进行情感极性判断，其中train.csv是数据集，运行sentiment.py进行训练，运行call_sentiment.py调用训练好的模型进行验证。
